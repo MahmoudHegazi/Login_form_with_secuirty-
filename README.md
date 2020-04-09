@@ -4,3 +4,12 @@ login form with user database and security, used hashed and salat and special fu
 This is RESTFull API with login function and logout and sginup 
 I stored the user info in the login session
 this is my first Own login form I used to use Oauth2 for handle login session
+
+
+0 chance to get user password even  if you have the source code with you 
+you will find yourself inside A maze 
+
+## note
+this is my own securty function I build it using my ownlogic 
+there are many other good ways to make your login cus this it's not strong enogh alone so if you are begginer 
+don't use this!!!
